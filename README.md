@@ -1,9 +1,9 @@
 # google-hashcode-2018
 
 > **Project developed by:**\
-> ([Martim Silva](https://github.com/motapinto))\
-> ([Luís Ramos](https://github.com/luispramos))\
-> ([Francisco Gonçalves ](https://github.com/kiko-g))
+> [Martim Silva](https://github.com/motapinto)\
+> [Luís Ramos](https://github.com/luispramos)\
+> [Francisco Gonçalves ](https://github.com/kiko-g)
 >
 > **Any problems?**\
 > Start an Issue please.
